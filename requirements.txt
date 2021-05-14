@@ -6,3 +6,6 @@ nltk
 graphviz
 pyLDAvis
 wordcloud
+tweepy
+snscrape
+emoji
