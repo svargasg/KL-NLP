@@ -11,3 +11,4 @@ snscrape
 emoji
 textblob
 vaderSentiment
+flair
