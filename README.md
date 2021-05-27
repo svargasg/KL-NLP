@@ -1,11 +1,19 @@
 # Konrad Lorenz - Natural Language Processing
 
+* [About](#about)  
+* [Instalación](#instalacion)
+* [Portafolio](#portafolio)
+* [Créditos](#creditos)
+
+
+<a name="about"> </a>
 # About
 
 El presente repositorio contiene notebooks de python enfocados a la asignatura **"Procesamiento de Lenguaje natural"** de la *Fundación Universitaria Konrad Lorenz* para el programa **Analítica Estratégica de Datos**, en el cual encontraremos tanto algunos apuntes tomados en el transcurso de las clases como tambien el desarrollo de los talleres requeridos. 
 
 **Nota:** Para observar todo el contenido de algunos notebooks que contienen visualización interactiva, pueden hacer uso de [nbviewer](https://nbviewer.jupyter.org/)
 
+<a name="instalacion"> </a>
 # Instalación
 
 Para poder hacer uso y modificación de los notebooks es necesario adecuar el ambiente de desarrollo, por lo que necesitaremos:
@@ -15,6 +23,7 @@ Para poder hacer uso y modificación de los notebooks es necesario adecuar el am
 - Instalar, crear y activar un "virtual enviroment" [LINK](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/#installing-pip)
 - Instalar librerias usando el archivo de requerimientos "requirements.txt" [LINK](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/#installing-pip)
 
+<a name="portafolio"> </a>
 # Portafolio
 
 -  2021-03-04 | **Taller 02** | [**Adquisición de textos**](https://github.com/svargasg/KL-Natural_Language_Processing/blob/main/Clases/20210520/taller/taller12.ipynb)
@@ -37,7 +46,8 @@ Para poder hacer uso y modificación de los notebooks es necesario adecuar el am
 
 -  2021-05-27 | **Taller 12** | [**Análisis de sentimiento**](https://github.com/svargasg/KL-Natural_Language_Processing/blob/main/Clases/20210520/taller/taller12.ipynb)
 
-# Creditos
+<a name="creditos"> </a>
+# Créditos
 
-- **Estudiante**: [@svargasg](https://github.com/svargasg) - [Linkedin](www.linkedin.com/in/svargasg)
+- **Estudiante**: [@svargasg](https://github.com/svargasg) - [Linkedin](https://www.linkedin.com/in/svargasg/)
 - **Docente**: [@vivianamarquez](https://github.com/vivianamarquez) - [Linkedin](https://www.linkedin.com/in/vivianamarquez/)
