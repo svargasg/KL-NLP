@@ -59,5 +59,5 @@ Para poder hacer uso y modificación de los notebooks es necesario adecuar el en
 <a name="creditos"> </a>
 # Créditos
 
-- **Estudiante**: [@svargasg](https://nbviewer.jupyter.org/github/svargasg) - [Linkedin](https://www.linkedin.com/in/svargasg/)
-- **Docente**: [@vivianamarquez](https://nbviewer.jupyter.org/github/vivianamarquez) - [Linkedin](https://www.linkedin.com/in/vivianamarquez/)
+- **Estudiante**: [@svargasg](https://github.com/svargasg) - [Linkedin](https://www.linkedin.com/in/svargasg/)
+- **Docente**: [@vivianamarquez](https://github.com/vivianamarquez) - [Linkedin](https://www.linkedin.com/in/vivianamarquez/)
