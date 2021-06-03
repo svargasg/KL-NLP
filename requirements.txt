@@ -12,3 +12,6 @@ emoji
 textblob
 vaderSentiment
 flair
+sentiment-analysis-spanish
+keras
+tensorflow
