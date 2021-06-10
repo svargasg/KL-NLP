@@ -15,3 +15,4 @@ flair
 sentiment-analysis-spanish
 keras
 tensorflow
+powerbiclient
